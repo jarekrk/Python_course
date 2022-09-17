@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Git" />
+    <orderEntry type="module" module-name="pythonProject" />
   </component>
 </module>
