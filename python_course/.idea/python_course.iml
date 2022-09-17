@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Git" />
     <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="pythonProjectSZKOLENIE" />
   </component>
 </module>
